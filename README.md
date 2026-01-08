@@ -1,4 +1,14 @@
-# PixQR
+<div align="center">
 
-![PixQR Logo](https://via.placeholder.com/800x400/1a1a2e/e0e0e0?text=PixQR+-+Minimal+QR+Code+Generator)  
-_Minimal • Lightweight • QR Code Generator_
+[![][logo-url]][docs-url]
+
+# PixQR
+**_Minimal • Lightweight • QR Code Generator_**
+
+[![][version]](https://github.com/BehnamAzg/PixQR/releases)
+[![][license]](https://github.com/BehnamAzg/PixQR/blob/main/LICENSE)
+[![][stars]](https://github.com/BehnamAzg/PixQR)
+
+</div>
+
+
