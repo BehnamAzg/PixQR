@@ -3,9 +3,7 @@
 [![][logo-url]][docs-url]
 
 # MiniQR
-
 **_Minimal • Lightweight • QR Code Generator_**
-
 
 [![][license]](https://github.com/BehnamAzg/MiniQR/blob/main/LICENSE)
 [![][version]](https://github.com/BehnamAzg/MiniQR/releases)
@@ -20,5 +18,5 @@
 [license]: https://img.shields.io/github/license/BehnamAzg/MiniQR.svg?style=flat-square
 [version]: https://img.shields.io/github/v/release/BehnamAzg/MiniQR.svg?style=flat-square
 [stars]: https://img.shields.io/github/stars/BehnamAzg/MiniQR.svg?style=flat-square
-[Support]: https://img.shields.io/badge/Donate-❤️?style=flat-square
+[Support]: https://img.shields.io/badge/Donate-❤️-red?style=flat-square
 
